@@ -12,7 +12,7 @@ int main(){
 		cout<<"(si es la primera vez que entra, porfavor ingrese la opcion 1)"<<endl;
 		cout<<"1. editar archivo "<<endl;
 		cout<<"2. leer archivo "<<endl;
-		cout<<"3. modificar archivo: "<<endl;
+		cout<<"3. modificar archivo "<<endl;
 		cout<<"0. salir: ";
 		cin>>n;
 		switch(n){
